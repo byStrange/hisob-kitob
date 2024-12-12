@@ -1,7 +1,3 @@
-
-# Financial Summary
-
-
 ## Kirimlar
 
 ### Dekabr 7
